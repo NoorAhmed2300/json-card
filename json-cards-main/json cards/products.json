@@ -1,0 +1,75 @@
+[
+    {
+        
+        "image":"products/img 1.jfif",
+        "title": "knight kindom",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "7,000"
+        
+    },
+    {
+        
+        "image":"products/img 2.jfif",
+        "title": "knight kindom",
+        "description": "Samsung Galaxy Watch 4",
+        "price": "20,000"
+        
+    },
+    {
+    
+        
+        "image":"products/img 3.jfif",
+        "title": "knight kindom",
+        "description": "Fossil Gen 6 Smartwatch, FTW4060",
+        "price": "6,000"
+        
+    },
+    {
+        
+        "image":"products/img 4.jfif",
+        "title": "knight kindom",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/img 5.jfif",
+        "title": "knight kindom",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"products/img 6.jfif",
+        "title": "knight kindom",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/img 7.jfif",
+        "title": "knight kindom",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"products/img 8.jfif",
+        "title": "knight kindom",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/img 9.jfif",
+        "title": "knight kindom",
+        "description": "",
+        "price": "4,000"
+       
+    }
+]
